@@ -43,6 +43,4 @@ Pratique de l'Aïkido, Photographie
 
 ** Tournages à l’étranger : **
 _Algerie, Allemagne, Angleterre, Belgique, Benin, Burkina Fasso,Algerie, Allemagne, Angleterre, Belgique, Benin,
-Burkina Fasso,Costa Rica, Espagne, Ghana, Grèce , Guyane, Irak, Iran, Italie, Japon, Liban, Niger, Pologne,Costa Rica, 
-Espagne, Ghana, Grèce , Guyane, Irak, Iran, Italie, Japon, Liban, Niger, Pologne,Portugal, Russie, Sénégal, Togo, 
-Usa.Portugal, Russie, Sénégal, Togo, Usa._
+Burkina Fasso,Costa Rica, Espagne, Ghana, Grèce , Guyane, Irak, Iran, Italie, Japon, Liban, Niger, Pologne
