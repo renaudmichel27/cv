@@ -3,15 +3,15 @@
 ![[Screenshot 2025-10-23 at 15-43-06 ⋆ RENAUD MICHEL sound recordist preneur de son sound mixer chef operateur du son cinema telefilm documentaire.png]]
 
 
-## Etudes universitaires
+# Etudes universitaires
 1986 : Bac D, lycée Racine, Paris
 1988 : Deug SSM, faculté Paris VII, Jussieu
 1993 : BTS Cinéma option son, **ENS Louis Lumière 1993** : BTS Cinéma option son
 
-## Formation professionnelle
+# Formation professionnelle
 1989 : Electricien de spectacle, Laser formation
 
-## Expérience professionnelle
+# Expérience professionnelle
 1990-1992 : _Régisseur son théâtre_
 1994-1995 _:_Technicien son Bibliothèque Nationale de France, Paris_
 
@@ -22,14 +22,14 @@ _
 Matériel utilisé :Cantar X1,X2,X3,Mini ; Nagra VI,V,IV-S ; SD Scorpio,788,
 Montage son : Protool 12
 Multimédia : Wordpress,, indesign,, Word,
-## Formateur prise de son
+
+# Formateur prise de son
 2000-2002 : Formateur Son Ecole des Beaux Arts, Cergy
 2013 : Formateur Expert CFI Ouagadougou : « Son et séries télévisées »
 2014 : Formateur « Son et réalisation » CEFPF, Paris
 2020-2022 : Intervenant son FEMIS, CLCF, Paris
 
 # Infos
-
 CNC : 7725
 Port. 06 85 56 18 30
 renaud.michel@wanadoo.fr
