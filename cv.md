@@ -1,6 +1,6 @@
 https://renaudmichel.fr
 
-[Screenshot 2025-10-23 at 15-43-06 ⋆ RENAUD MICHEL sound recordist preneur de son sound mixer chef operateur du son cinema telefilm documentaire.png]
+Screenshot 2025-10-23 at 15-43-06 ⋆ RENAUD MICHEL sound recordist preneur de son sound mixer chef operateur du son cinema telefilm documentaire.png
 
 
 # Etudes universitaires
