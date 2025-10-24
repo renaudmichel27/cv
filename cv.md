@@ -18,7 +18,7 @@ https://renaudmichel.fr
 
 Partenaires : ** DCA / Tapages / Elison / Archipel **
 Collaborations :_Louis GIMEL, Mathieu IMBERT, Francois MAUREL, Philippe MOREL,
-Georges PRAT, Maguette SALAH, Dominique VIEILLARD
+Georges PRAT, Maguette SALAH, Dominique VIEILLARD_
 _
 Matériel utilisé :Cantar X1,X2,X3,Mini ; Nagra VI,V,IV-S ; SD Scorpio,788,
 Montage son : Protool 12
