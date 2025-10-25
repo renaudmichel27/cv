@@ -43,5 +43,4 @@ Anglais, lu et parlé. Notions de portugais et d'allemand
 Pratique de l'Aïkido, Photographie
 
 ** Tournages à l’étranger : **
-_Algerie, Allemagne, Angleterre, Belgique, Benin, Burkina Fasso,Algerie, Allemagne, Angleterre, Belgique, Benin,
-Burkina Fasso,Costa Rica, Espagne, Ghana, Grèce , Guyane, Irak, Iran, Italie, Japon, Liban, Niger, Pologne_
+_Algerie, Allemagne, Angleterre, Belgique, Benin, Burkina Fasso,Costa Rica, Espagne, Ghana, Grèce , Guyane, Irak, Iran, Italie, Japon, Liban, Niger, Pologne_
